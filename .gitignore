@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# venv
+venv/
+
+# Py cache
+__pycache__/
+*.pyc
+
+# test cashe
+.pytest_cache/
+
+# editor settings
+.vscode/
